@@ -1,7 +1,7 @@
 # PHYS311
 All computational HW from PHYS 311 Mechanics 1
 [README.md](https://github.com/user-attachments/files/21898443/README.md)
-# PHYS311_Fall2024
+# PHYS311_Fall2025
 
 This repository contains Jupyter notebooks for use during the Studio sessions of PHYS 311 - Classical Mechanics I at the University of Tennessee, Knoxville.  These are largely copied from Dr. Larry Lee, who deserves all of the credit for the excellent work!
 
